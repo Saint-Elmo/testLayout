@@ -310,7 +310,7 @@
         height: 81px;
     }
     #footer-vector {
-        top: -85px;
+        top: -86px;
     }
     #footer-text .text-title {
         width: 280px;
@@ -345,9 +345,13 @@
     .info-join-us input {
         width: 200px;
         padding: 10px 24px;
+        margin-bottom: 10px;
     }
     .main-item {
         padding-left: 15px;
         padding-right: 15px;
+    }
+    #features-items {
+        margin: 0 auto;
     }
 }
